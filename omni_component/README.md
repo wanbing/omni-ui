@@ -65,12 +65,12 @@ OpenHarmony ohpm 环境配置等更多内容，请参考如何安装 [OpenHarmon
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/wanbing"><img src="https://avatars.githubusercontent.com/u/7804234?v=4?s=100" width="100px;" alt=""/><br /><sub><b>wan</b></sub></a><br /><a href="https://github.com/wuba/fair/commits?author=wanbing" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/Blues9527"><img src="https://avatars.githubusercontent.com/u/35455720?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Blues9527</b></sub></a><br /><a href="https://github.com/wuba/fair/commits?author=Blues9527" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/miserydx"><img src="https://avatars.githubusercontent.com/u/17892391?v=4?s=100" width="100px;" alt=""/><br /><sub><b>miserydx</b></sub></a><br /><a href="https://github.com/wuba/fair/commits?author=miserydx" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/betterton"><img src="https://avatars.githubusercontent.com/u/15278601?v=4?s=100" width="100px;" alt=""/><br /><sub><b>betterton</b></sub></a><br /><a href="https://github.com/wuba/fair/commits?author=betterton" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/imyeego"><img src="https://avatars.githubusercontent.com/u/7095685?v=4?s=100" width="100px;" alt=""/><br /><sub><b>imyeego</b></sub></a><br /><a href="https://github.com/wuba/fair/commits?author=imyeego" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/shuchaia"><img src="https://avatars.githubusercontent.com/u/48520485?v=4?s=100" width="100px;" alt=""/><br /><sub><b>shuchaia</b></sub></a><br /><a href="https://github.com/wuba/fair/commits?author=shuchaia" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/wanbing"><img src="https://avatars.githubusercontent.com/u/7804234?v=4?s=100" width="100px;" alt=""/><br /><sub><b>wan</b></sub></a><br /><a href="https://github.com/wuba/omni-ui/commits?author=wanbing" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Blues9527"><img src="https://avatars.githubusercontent.com/u/35455720?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Blues9527</b></sub></a><br /><a href="https://github.com/wuba/omni-ui/commits?author=Blues9527" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/miserydx"><img src="https://avatars.githubusercontent.com/u/17892391?v=4?s=100" width="100px;" alt=""/><br /><sub><b>miserydx</b></sub></a><br /><a href="https://github.com/wuba/omni-ui/commits?author=miserydx" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/betterton"><img src="https://avatars.githubusercontent.com/u/15278601?v=4?s=100" width="100px;" alt=""/><br /><sub><b>betterton</b></sub></a><br /><a href="https://github.com/wuba/omni-ui/commits?author=betterton" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/imyeego"><img src="https://avatars.githubusercontent.com/u/7095685?v=4?s=100" width="100px;" alt=""/><br /><sub><b>imyeego</b></sub></a><br /><a href="https://github.com/wuba/omni-ui/commits?author=imyeego" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/shuchaia"><img src="https://avatars.githubusercontent.com/u/48520485?v=4?s=100" width="100px;" alt=""/><br /><sub><b>shuchaia</b></sub></a><br /><a href="https://github.com/wuba/omni-ui/commits?author=shuchaia" title="Code">💻</a></td>
   </tr>
 </table>
 
